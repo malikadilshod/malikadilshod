@@ -12,3 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Mening birinchi Github loyiham
 Bu loyiha Github bilan ishlashni o'rganish uchun tayyorlangan.
+## Maqsad 
+-Githubda repository yaratish
+-Readme.md faylini to'ldirish
+-Git bilan ishlash asoslarini o'rganish
